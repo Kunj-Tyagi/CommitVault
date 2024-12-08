@@ -1,0 +1,2 @@
+Hello!
+it could be any file.

@@ -1,0 +1,31 @@
+nav{
+    display:flex; 
+    justify-content: space-between; 
+    padding-bottom:10px;
+    border-bottom:2px solid rgb(0,0,0); 
+}
+
+nav img{
+    width:10%;
+    height:5%;
+    border-radius: 100%;
+}
+nav div {
+    display:flex;
+}
+
+nav h3{
+    margin-left: 15px;
+    color:rgb(0, 0, 0)
+}
+
+nav p{
+    margin-left:50px;
+    font-weight: bold;
+    color:rgb(0, 0, 0)
+}
+
+nav h3:hover,
+nav p:hover{
+    text-decoration: underline;
+}
